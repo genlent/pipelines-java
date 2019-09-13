@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/genlent/MS-Pipelines-Java/_apis/build/status/genlent.pipelines-java?branchName=master)](https://dev.azure.com/genlent/MS-Pipelines-Java/_build/latest?definitionId=5&branchName=master)
 
 # Contributing
 
